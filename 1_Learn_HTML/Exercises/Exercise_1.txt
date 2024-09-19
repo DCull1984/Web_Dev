@@ -1,4 +1,4 @@
-Add the correct tags in the index.html file for the folowing:
+Add the correct tags in the HTML_1.html file for the folowing:
 
 I need a paragraph here
 I need bold text here

@@ -1,0 +1,19 @@
+Open Exercise 3 start.html
+
+Apply content sectioning, head info and everything covered so far.
+
+
+My Heading
+
+Home Page
+
+First paragraph text This one is bolded, this is italic!!!
+
+Second paragraph text
+
+Third paragraph text
+on a new line using line break
+
+Just some plain text
+
+Copyright my Website 
