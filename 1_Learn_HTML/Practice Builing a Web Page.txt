@@ -1,0 +1,2 @@
+Add a link to another part of the page using ID attribute
+Add new hyperlink to the page in the nav area link to google or a favourtie website.
