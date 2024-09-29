@@ -1,0 +1,4 @@
+1. Add 2 images one with a relative path and one with an absolute path. 
+2. Add a Hyperlink to click out to the image with the absolute path.
+
+located in start.html
